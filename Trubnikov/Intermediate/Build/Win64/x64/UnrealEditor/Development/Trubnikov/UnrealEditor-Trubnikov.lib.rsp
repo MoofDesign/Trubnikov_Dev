@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Trubnikov.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE5\Trubnikov_Dev\Trubnikov\Intermediate\Build\Win64\x64\TrubnikovEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"F:\UE5\Trubnikov_Dev\Trubnikov\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trubnikov\testChar.gen.cpp.obj"
+"F:\UE5\Trubnikov_Dev\Trubnikov\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trubnikov\Trubnikov.init.gen.cpp.obj"
+"F:\UE5\Trubnikov_Dev\Trubnikov\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trubnikov\testChar.cpp.obj"
+"F:\UE5\Trubnikov_Dev\Trubnikov\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trubnikov\Trubnikov.cpp.obj"
+"F:\UE5\Trubnikov_Dev\Trubnikov\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trubnikov\Default.rc2.res"
+/OUT:"F:\UE5\Trubnikov_Dev\Trubnikov\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trubnikov\UnrealEditor-Trubnikov.lib"

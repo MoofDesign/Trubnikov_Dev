@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\UE5\\Trubnikov_Dev\\Trubnikov\\Source\\Trubnikov\\Trubnikov.Build.cs",
+		"F:\\UE5\\Trubnikov_Dev\\Trubnikov\\Source\\Trubnikov.Target.cs",
+		"F:\\UE5\\Trubnikov_Dev\\Trubnikov\\Source\\TrubnikovEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

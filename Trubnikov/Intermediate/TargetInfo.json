@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Trubnikov",
+			"Path": "..\\Source\\Trubnikov.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TrubnikovEditor",
+			"Path": "..\\Source\\TrubnikovEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
